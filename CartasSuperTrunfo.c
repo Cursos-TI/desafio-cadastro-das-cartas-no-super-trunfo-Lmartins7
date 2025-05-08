@@ -82,7 +82,7 @@ int main() {
    }else if (carta_jogador == 2){
     (carta_maquina == 1);
    }else {
-    printf("Opcão invalida.\n");
+    printf("Opcão inválida.\n");
     return 0;
    }
   //RETORNO AO JOGADOR
